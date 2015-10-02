@@ -6,7 +6,7 @@
 #### In this talk we discuss the integration of R scripts in a Hadoop cluster
 
 <BR><BR>
-All the content is under the [BSD License](https://github.com/aRstats/talks/2015/HPC_with_R_and_Hadoop/License)
+All the content is under the [BSD License](https://github.com/aRstats/talks/2015/HPC_with_R_and_Hadoop/LICENSE)
 <BR><BR>
 The companies, products and service names used in this talk site are for identification purposes only. 
 
