@@ -5,6 +5,9 @@
 
 #### In this talk we discuss the integration of R scripts in a Hadoop cluster
 
+##### The examples files used in the scripts are generated with real Bitcon data from [Bitstamp](https://www.bitstamp.net/)
+
+
 <BR><BR>
 All the content is under the [BSD License](https://github.com/aRstats/talks/blob/master/2015/HPC_with_R_and_Hadoop/LICENSE)
 <BR><BR>
